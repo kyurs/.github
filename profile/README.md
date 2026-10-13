@@ -21,6 +21,7 @@ This is our development roadmap. **Pending does not mean installed or ready to u
 
 | Project | Status | Planned work |
 | --- | --- | --- |
+| [BlueMap](https://modrinth.com/plugin/bluemap) | **Pending — future addition; not installed** | Add a browser-based 3D world map through a Pumpkin-compatible integration. Evaluate world-format compatibility, rendering CPU/RAM and storage limits, and web hosting before implementation. |
 | [Infinite Villager Trading / InstantRestock](https://modrinth.com/plugin/infinite-villager-trading) | **Pending — future addition; not installed** | Add infinite villager trading through a Pumpkin-compatible implementation. Compatibility work and testing are still required. |
 | [Voice Messages](https://modrinth.com/plugin/voicemessages) | **Pending — future addition; not installed** | Add recorded voice messages in Minecraft chat, similar to regular voice notes. Plan integration with Simple Voice Chat and evaluate Pumpkin compatibility; the upstream mod requires both client and server support. |
 | [ItemEdit](https://modrinth.com/plugin/itemedit) | **Pending — future addition; not installed** | Add item customization and saved-item management through a Pumpkin-compatible implementation. Evaluate support for names, lore, enchantments, attributes, and item storage before implementation. |
