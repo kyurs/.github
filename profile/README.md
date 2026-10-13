@@ -8,7 +8,7 @@ Each repository includes source, licensing, build and installation instructions,
 
 | Plugin | Runs on | Purpose |
 | --- | --- | --- |
-| [Custom Skins](https://github.com/kyurs/Rust-CustomSkins) | Velocity + EaglerXServer | Official Minecraft skins and moderation |
+| [Custom Skins](https://github.com/kyurs/Rust-CustomSkins) | Pumpkin | Native official Minecraft skins and moderation; no proxy required |
 | [Pumpkin Voice](https://github.com/kyurs/Rust-PumpkinVoice) | Pumpkin | Proximity voice for Simple Voice Chat clients |
 | [Rust Tab List](https://github.com/kyurs/Rust-TabList) | Pumpkin + Velocity bridge | Ranks, chat prefixes, player counts, TPS and MSPT |
 | [Rust WorldEdit](https://github.com/kyurs/Rust-WorldEdit) | Pumpkin | Operator-only core editing; full FAWE compatibility is unfinished |
