@@ -21,6 +21,7 @@ This is our development roadmap. **Pending does not mean installed or ready to u
 
 | Project | Status | Planned work |
 | --- | --- | --- |
+| [FreedomChat](https://modrinth.com/plugin/freedomchat) | **Pending — future addition; not installed** | Evaluate a Pumpkin-compatible implementation of outgoing chat-signing/reporting behavior, including compatibility with the existing chat formatter, proxy, and supported clients. |
 | [Terra](https://modrinth.com/plugin/terra) | **Pending — future addition; not installed** | Add configurable custom world generation through a Pumpkin-compatible implementation. Evaluate configuration-pack support, generation performance, and compatibility with existing worlds before implementation. |
 | [BlueMap](https://modrinth.com/plugin/bluemap) | **Pending — future addition; not installed** | Add a browser-based 3D world map through a Pumpkin-compatible integration. Evaluate world-format compatibility, rendering CPU/RAM and storage limits, and web hosting before implementation. |
 | [Infinite Villager Trading / InstantRestock](https://modrinth.com/plugin/infinite-villager-trading) | **Pending — future addition; not installed** | Add infinite villager trading through a Pumpkin-compatible implementation. Compatibility work and testing are still required. |
