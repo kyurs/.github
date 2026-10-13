@@ -1,6 +1,19 @@
 # KYURS
 
-Minecraft plugins and compatibility projects for the Oleksyuk Family Server, built around Pumpkin and its proxy integrations.
+Open-source Minecraft plugins and compatibility projects built around Pumpkin and its proxy integrations.
+
+## Public plugins
+
+Each repository includes source, licensing, build and installation instructions, and release downloads.
+
+| Plugin | Runs on | Purpose |
+| --- | --- | --- |
+| [Custom Skins](https://github.com/kyurs/Rust-CustomSkins) | Velocity + EaglerXServer | Official Minecraft skins and moderation |
+| [Pumpkin Voice](https://github.com/kyurs/Rust-PumpkinVoice) | Pumpkin | Proximity voice for Simple Voice Chat clients |
+| [Rust Tab List](https://github.com/kyurs/Rust-TabList) | Pumpkin + Velocity bridge | Ranks, chat prefixes, player counts, TPS and MSPT |
+| [Rust WorldEdit](https://github.com/kyurs/Rust-WorldEdit) | Pumpkin | Operator-only core editing; full FAWE compatibility is unfinished |
+
+The plugins are independently installed. Check each project's pinned host versions and required client/proxy dependencies before deployment.
 
 ## Planned mods and future additions
 
